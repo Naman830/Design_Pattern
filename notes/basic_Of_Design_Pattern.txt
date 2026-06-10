@@ -23,3 +23,6 @@ The concept of patterns was first described by Christopher Alexander in A Patter
 The idea was picked up by four authors: Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm. In 1994, they published Design Patterns: Elements of Reusable Object-Oriented Software [total 23 pattern discovered that time]
 
 Due to its lengthy name, people started to call it “the book by the gang of four”
+
+==============================================================================
+==============================================================================
