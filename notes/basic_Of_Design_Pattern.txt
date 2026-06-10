@@ -5,5 +5,7 @@ Defination:
 Design patterns are typical solutions to commonly occurring problems in software design. 
 
 Analogy:
-An analogy to an algorithm is a cooking recipe: both have clear steps to achieve a goal. On the other hand, a pattern is more like a blueprint: you can see what the result and its features are, but the exact order of implementation is up to you.
+An analogy to an algorithm is a cooking recipe: both have clear steps to achieve a goal. On the other hand, a pattern is more like a blueprint: you can see what the result and its features are, but the exact order of [implementation is up to you.]
+
+
 
