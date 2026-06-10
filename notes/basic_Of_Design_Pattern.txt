@@ -1,3 +1,5 @@
+WHAT IS DESIGN PATTERN?
+
 My words: 
 Design pattern is like a blueprint for problems that occur during creating any software 
 
@@ -7,5 +9,17 @@ Design patterns are typical solutions to commonly occurring problems in software
 Analogy:
 An analogy to an algorithm is a cooking recipe: both have clear steps to achieve a goal. On the other hand, a pattern is more like a blueprint: you can see what the result and its features are, but the exact order of [implementation is up to you.]
 
+==============================================================================
+==============================================================================
 
+HISTORY OF PATTERN?
+Who invented patterns? That’s a good, but not a very accurate, question. 
 
+Reality: 
+Patterns are typical solutions to common problems in object-oriented design. When a solution gets repeated over and over in various projects, someone eventually puts a name to it and describes the solution in detail. That’s basically how a pattern gets discovered.
+
+The concept of patterns was first described by Christopher Alexander in A Pattern Language: Towns, Buildings, Construction.
+
+The idea was picked up by four authors: Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm. In 1994, they published Design Patterns: Elements of Reusable Object-Oriented Software [total 23 pattern discovered that time]
+
+Due to its lengthy name, people started to call it “the book by the gang of four”
